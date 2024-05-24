@@ -5,6 +5,6 @@
 
 > 09.04.20XX
 >
-> 8^{TH} GRADE SCIENCE
+> 8<sup>TH</sup> GRADE SCIENCE
 
 
