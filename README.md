@@ -1,5 +1,6 @@
 # SCIENCE LAB REPORT
 ## Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+[report image]("./git and github image.jpeg")
 [img](https://th.bing.com/th/id/R.48c3a8f2e7c1904ca751b7ac1499f598?rik=b7f6Vf7P7MYAUA&riu=http%3a%2f%2fwww.spreadyourrightwings.com%2fwp-content%2fuploads%2f2018%2f01%2fAFun.jpg&ehk=y9KKN6dsOAde1dAOU4H64ZJ%2bJkK1xXTodt98DNbvZrs%3d&risl=&pid=ImgRaw&r=0)
 
 ### Your Name
