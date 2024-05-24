@@ -3,8 +3,7 @@
 
 ### Your Name
 
-> 09.04.20XX
-> 
-> 8TH GRADE SCIENCE
+> hey
+> how are yoy 
 
-# Lorem ipsum dolor sit amet, consectetuer adipiscing elit 
+
