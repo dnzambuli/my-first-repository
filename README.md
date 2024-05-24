@@ -47,4 +47,8 @@ vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
 |Lorem ipsum| | |
 
 
-
+|  LOREM IPSUM | DOLOR SIT| |
+| ----| :----| ----|
+|Lorem ipsum| 123| |
+|Lorem ipsum| 456| |
+|Lorem ipsum| 789| |
